@@ -1,0 +1,18 @@
+{
+  "name": "19-logger",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-jv/19-logger.git"
+  },
+  "keywords": [],
+  "author": "Jesse Van Volkinburg <vanvoljg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-jv/19-logger/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-jv/19-logger#readme"
+}
