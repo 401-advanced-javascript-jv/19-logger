@@ -7,12 +7,10 @@
 ### Links and Resources
 * [submission PR](https://github.com/401-advanced-javascript-jv/19-logger/pull/1)
 * [travis](https://travis-ci.com/401-advanced-javascript-jv/19-logger)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
 
 ### Setup
 #### `.env` requirements
-* `PORT` - Port Number
+- `QUEUE_SERVER` URL of the running queue server
 
 #### Running the app
 * `npm start`
