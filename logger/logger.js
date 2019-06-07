@@ -6,10 +6,12 @@ const database = new QClient('database');
 const file = new QClient('file');
 
 const databaseEvents = {
-  create: 'create',
-  read: 'read',
-  update: 'update',
+  post: 'post',
+  get: 'get',
+  put: 'put',
   delete: 'delete',
+  patch: 'patch',
+  error: 'error',
 };
 
 const fileEvents = {
