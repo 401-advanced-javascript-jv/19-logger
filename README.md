@@ -5,8 +5,8 @@
 ### Author: Jesse Van Volkinburg
 
 ### Links and Resources
-* [submission PR](https://github.com/401-advanced-javascript-jv/19-server/pull/1)
-* [travis](https://travis-ci.com/401-advanced-javascript-jv/19-queue-server)
+* [submission PR](https://github.com/401-advanced-javascript-jv/19-logger/pull/1)
+* [travis](https://travis-ci.com/401-advanced-javascript-jv/19-logger)
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
 
