@@ -29,6 +29,7 @@
     "start": "node ./logger/logger.js",
     "watch": "nodemon",
     "lint": "eslint '**/*.js'",
+    "lint-fix": "eslint --fix '**/*.js'",
     "test": "jest --verbose --coverage",
     "test-watch": "jest --watchAll --verbose --coverage",
     "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json"

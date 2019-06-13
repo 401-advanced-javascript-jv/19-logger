@@ -22,11 +22,11 @@ const fileEvents = {
 for (let event of Object.keys(databaseEvents)) {
   database.subscribe(databaseEvents[event], (payload) => {
     console.log(`${databaseEvents[event]} happened`, {payload});
-  })
-};
+  });
+}
 
 for (let event of Object.keys(fileEvents)) {
   file.subscribe(fileEvents[event], (payload) => {
     console.log(`${fileEvents[event]} happened`, {payload});
-  })
-};
+  });
+}
