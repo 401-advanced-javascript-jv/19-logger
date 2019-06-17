@@ -1,5 +1,6 @@
 'use strict';
 
+require('dotenv').config();
 const QClient = require('@nmq/q/client');
 
 const database = new QClient('database');
@@ -30,3 +31,4 @@ for (let event of Object.keys(fileEvents)) {
     console.log(`${fileEvents[event]} happened`, {payload});
   });
 }
+
