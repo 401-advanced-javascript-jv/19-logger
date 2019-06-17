@@ -1,6 +1,6 @@
 # LAB - 19
 
-## Message Queue Server
+## Message Queue - Logger
 
 ### Author: Jesse Van Volkinburg
 
